@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: dbefc9cebfe79c9458eacaea0e09a29b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63683d84fec064a8e1ae65f4110062
+      internalID: -153627427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc06c584a1627542b8249ad1a96e243
+      internalID: 1446655428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1af2173749b34ca88994ae4a6f2b0
+      internalID: 1530470853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af34482c7d75fb4197ac54990db33c9
+      internalID: -955412336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214c22ff41d0c54097a91226f1e705e
+      internalID: -1779489288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d43b2b167eaf940a1cc19ace62d276
+      internalID: -1462988160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 314
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a0166b4c2ad342aebf8b13dcc40cb
+      internalID: 672700031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dce64d326b424eb7692e8ed02340a
+      internalID: 961933029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e24bd3c390e0448f19f75919a1bef
+      internalID: -1967156828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c74370d63ba1a459ce6dd23cdf7e1d
+      internalID: 27468903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5fee3a1356554b89179de9f771e91
+      internalID: 339408148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668c029b08f8f4449e5659578ba4a01
+      internalID: 691807196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d2249eb50725458bdb534f4f1d2a4
+      internalID: 1804714796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 240
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a039ef891f37641be2d92dd72d0a55
+      internalID: -2065387270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b50b5d6084e04fb72f24b794f12aa
+      internalID: -173518668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899bc2a80f54b0e4690228db5f1214d1
+      internalID: 254321107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d281cdb060d74688df62192e58098
+      internalID: -1398632314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b939bfc9ca754fa49f4a84bfae206
+      internalID: 584556712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70407d4d115daf499028e57ddf0efb2
+      internalID: 1601465626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebdade3e09a894c8d70bbaa5164f69
+      internalID: -2097369154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 166
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95161ad86227814484a18a760721ce3
+      internalID: 2145705209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b262384f473749a6b38870e78be0e
+      internalID: -349289811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33249c7692a5f49801ff19fef54080
+      internalID: 421268777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0766bf5e744f47be2697d9762200f
+      internalID: 1538761618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27bd44f43c757d4eb4b89c7a3c490d1
+      internalID: 752738894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b8b58a713fa6742bda037c3f23d26d
+      internalID: 359561037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067721721ae4c34a8488db9a4f47106
+      internalID: 395843416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 92
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34f42f840850b4999f57a18d9d458d
+      internalID: 2009110501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a1c8df6ec96e4ea8468bf46806f17
+      internalID: -1914148128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42600d13cc9f53f4b95ae5338e4c6728
+      internalID: -1670052817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943c450f3d776c49910d795e50454de
+      internalID: 869263093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3254a33da441314e81f79cf1dd71908
+      internalID: 103548915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb3e886d25b084c90ea262c57167fc
+      internalID: 760311780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0941bc8fe4bdfc4ca8137787e1e7e72
+      internalID: 2028897240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kablooe-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 18
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76c7fbbfa8dc84699a89e875c65c38
+      internalID: 488010289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kablooe-removebg-preview_0: -153627427
+      kablooe-removebg-preview_1: 1446655428
+      kablooe-removebg-preview_10: 339408148
+      kablooe-removebg-preview_11: 691807196
+      kablooe-removebg-preview_12: 1804714796
+      kablooe-removebg-preview_13: -2065387270
+      kablooe-removebg-preview_14: -173518668
+      kablooe-removebg-preview_15: 254321107
+      kablooe-removebg-preview_16: -1398632314
+      kablooe-removebg-preview_17: 584556712
+      kablooe-removebg-preview_18: 1601465626
+      kablooe-removebg-preview_19: -2097369154
+      kablooe-removebg-preview_2: 1530470853
+      kablooe-removebg-preview_20: 2145705209
+      kablooe-removebg-preview_21: -349289811
+      kablooe-removebg-preview_22: 421268777
+      kablooe-removebg-preview_23: 1538761618
+      kablooe-removebg-preview_24: 752738894
+      kablooe-removebg-preview_25: 359561037
+      kablooe-removebg-preview_26: 395843416
+      kablooe-removebg-preview_27: 2009110501
+      kablooe-removebg-preview_28: -1914148128
+      kablooe-removebg-preview_29: -1670052817
+      kablooe-removebg-preview_3: -955412336
+      kablooe-removebg-preview_30: 869263093
+      kablooe-removebg-preview_31: 103548915
+      kablooe-removebg-preview_32: 760311780
+      kablooe-removebg-preview_33: 2028897240
+      kablooe-removebg-preview_34: 488010289
+      kablooe-removebg-preview_4: -1779489288
+      kablooe-removebg-preview_5: -1462988160
+      kablooe-removebg-preview_6: 672700031
+      kablooe-removebg-preview_7: 961933029
+      kablooe-removebg-preview_8: -1967156828
+      kablooe-removebg-preview_9: 27468903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
